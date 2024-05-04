@@ -1,0 +1,17 @@
+.post-details {
+    position: relative;
+  }
+  
+  .post-details-image {
+    float: left;
+    margin-right: 20px;
+  }
+  
+  .post-details-content {
+    overflow: hidden; /* Ensures text covers the image */
+  }
+  
+  .post-details-title {
+    margin-top: 0;
+  }
+  
